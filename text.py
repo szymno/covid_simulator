@@ -1,0 +1,30 @@
+class Text:
+    #  help messages
+    board_size = "specify the size of a board, example: 100X100"
+    agents_start = "specify starting quantity of agents"
+    infected_start = "specify starting quantity of infected agents out of the whole number of them"
+    speed = "specify the speed of an agent"
+    incubation_time = "specify the time it takes to develop symptoms and be quarantined"
+    convalescence_time = "specify the time it takes to recover from the illness"
+    infection_probability = "specify the probability of infecting"
+    infection_distance = "specify the distance the illness can spread"
+    death_probability = "specify the probability of death"
+    time_random = "specify the randomness of convalescence and incubation times"
+    interval = "specify the time between the steps in ms"
+    steps = "specify how many steps to be shown"
+
+    description = "Animate the disease spread"
+
+    #  error messages
+    error_board = "Wrong board size"
+    error_agents = "Wrong value of agents"
+    error_infected = "Wrong value of infected"
+    error_speed = "Wrong value of speed"
+    error_incubation = "Wrong value of incubation"
+    error_convalescence = "Wrong value of convalescence"
+    error_infection_probability = "Wrong value of infection_probability"
+    error_infection_distance = "Wrong value of infection_distance"
+    error_death_probability = "Wrong value of death_probability"
+    error_time_random = "Wrong value of time_random"
+    error_interval = "Wrong value of interval"
+    error_steps = "Wrong value of steps"
