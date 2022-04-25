@@ -29,3 +29,4 @@ The simulation code should allow to launch simulations, specify parameters and s
 Your mark will depend on two factors: how well your code fulfills the task (including model improvements) and the elegance and legibility of the code (you may want to read [Python Style Guide](https://www.python.org/dev/peps/pep-0008/) for some hints).
 
 *Main file is the covid_simulator.py and works from terminal*
+*Report concerning this project is "covid_report.ipynb"*
